@@ -75,6 +75,9 @@
     <Content Include="HtmlPage5.html" />
     <Content Include="index.html" />
     <Content Include="JavaScript1.js" />
+    <Content Include="Screenshot 2015-05-21 15.38.24.png" />
+    <Content Include="sublimeTest.html" />
+    <Content Include="test.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
